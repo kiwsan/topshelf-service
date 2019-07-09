@@ -5,4 +5,4 @@ The created project will have a dependency on Nuget packages for the the followi
 
 * [TopShelf]( https://github.com/Topshelf): used to create the Windows Service.
 * [log4net]( http://logging.apache.org/log4net/): used as the concrete log framework.
-* [Ninject]( https://autofac.org/): used for dependency injection.
+* [Autofac]( https://autofac.org/): used for dependency injection.
